@@ -1,0 +1,7 @@
+{
+  
+  "default": "manage-subjects",
+  "view": "view-subject",
+  "add": "create-subject"
+
+}

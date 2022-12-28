@@ -1,0 +1,21 @@
+
+.dashboard-stat {
+    display: block;
+    padding: 3px 15px;
+    text-align: right;
+}
+
+.dashboard-stat .number {
+	font-size: 28px;
+	display: block;
+}
+.dashboard-stat .bg-icon {
+    font-size: 80px;
+    bottom: 0;
+}
+
+.dashboard-stat .bg-icon-viewed {
+    font-size: 80px;
+    opacity: 0.4;
+    bottom: 0;
+}

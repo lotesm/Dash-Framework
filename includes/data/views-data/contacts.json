@@ -1,0 +1,9 @@
+{
+  "default": "manage-customers",
+  "view": "view-customer",
+  "manage": "manage-suppliers",
+  "view-s": "view-supplier",
+  "manage": "manage-customer-groups",
+  "view-c-s": "view-customer-group"
+
+}

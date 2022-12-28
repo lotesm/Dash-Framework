@@ -1,0 +1,6 @@
+{
+  "default": "manage-reports",
+  "download": "download-report",
+  "view": "view-report"
+
+}

@@ -1,0 +1,7 @@
+{
+  
+  "default": "list-groups",
+  "view": "view-group",
+  "read": "group-post"
+
+}

@@ -1,0 +1,10 @@
+{
+  "default": "manage-accounts",
+  "add": "add-account",
+  "view": "view-account",
+  "export": "export-accounts",
+  "roles": "manage-roles",
+  "add-r": "add-role",
+  "view-r": "view-role"
+
+}
